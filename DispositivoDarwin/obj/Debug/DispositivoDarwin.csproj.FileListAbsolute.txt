@@ -1,0 +1,10 @@
+C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\bin\Debug\DispositivoDarwin.exe.config
+C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\bin\Debug\DispositivoDarwin.exe
+C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\bin\Debug\DispositivoDarwin.pdb
+C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.Form1.resources
+C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.Properties.Resources.resources
+C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.csproj.GenerateResource.Cache
+C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.csproj.CoreCompileInputs.cache
+C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.exe
+C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.pdb
+C:\Users\Leandro.DESKTOP-43PBH02\Desktop\DispositivoDarwin\DispositivoDarwin\obj\Debug\DispositivoDarwin.Sobre.resources
